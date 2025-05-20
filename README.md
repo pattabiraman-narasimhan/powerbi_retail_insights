@@ -1,7 +1,23 @@
 # powerbi_retail_insights
-Analysed the choclate sales data and came up with key findings related to sales pertinant to regions,sum of sales ,total boxes shipped sales across regions.
-The theme of the report 
-To UK highest sales has been made 
-Choclates like orange choco ,drinking choco dominates the sales volume
-Sum of Total amount :27.99M
-Sum of total boxes shipped across the countries: 2M
+# Chocolate Sales Dashboard 📊🍫
+
+This project showcases an interactive Power BI dashboard that analyzes chocolate sales trends across multiple countries, product categories, and salespeople. The aim was to identify high-performing regions, top-selling products, and monthly trends to support better business decisions.
+
+## 🔍 Key Insights
+- Total revenue generated: **$27.99M**
+- Highest sales by country: **UK ($7.66M)** and **USA ($6.28M)**
+- Best-selling products: **Orange Choco**, **Drinking Coco**, and **99% Dark & Pure**
+- Sales peaked around **July and November 2023**
+- Top performer: **Brien Boise ($2.17M in sales)**
+
+## 🛠 Tools Used
+- Power BI (Data visualization & dashboard design)
+- Excel (Data preparation and cleaning)
+
+## 📸 Dashboard Preview
+![Chocolate Dashboard](Screenshot%202025-05-19%20221545.png)
+
+## 🧑‍💼 About Me
+I'm Pattabiraman Narasimhan, an emerging data analyst passionate about transforming raw data into meaningful insights.  
+Follow me on [LinkedIn](https://www.linkedin.com/in/pattabiraman-narasimhan)
+
